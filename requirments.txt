@@ -1,0 +1,10 @@
+langchain
+openai
+neo4j
+pypdf
+langchain-experimental
+python-dotenv
+wikipedia
+tiktoken
+networkx
+pygraphviz
